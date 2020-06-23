@@ -13,7 +13,7 @@ class Directory extends React.Component {
           title: 'Jual Kopi',
           imageUrl: 'https://s-ecom.ottenstatic.com/original/5edfd49da3013093919569.jpg',
           id: 1,
-          linkUrl: 'beliKopi'
+          linkUrl: 'shop'
         },
         {
           title: 'Alat Kopi',
